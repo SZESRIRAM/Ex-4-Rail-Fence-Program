@@ -19,6 +19,7 @@ STEP-4: Arrange the characters of the keyword in sorted order and the correspond
 STEP-5: Read the characters row wise or column wise in the former order to get the cipher text.
 
 # PROGRAM
+```
 #include <stdio.h>
 #include <string.h>
 int main() {
@@ -52,7 +53,7 @@ int main() {
     printf("\n");
     return 0;
 }
-
+```
 # OUTPUT
 <img width="335" height="88" alt="image" src="https://github.com/user-attachments/assets/3dfd24d2-aeba-44a8-bf1c-4d491a220409" />
 
